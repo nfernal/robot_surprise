@@ -1,0 +1,7 @@
+name 'robot_surprise'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures robot_surprise'
+long_description 'Installs/Configures robot_surprise'
+version '0.1.0'
